@@ -29,4 +29,5 @@ Mon, Wed, Fri (10pm-11pm Eastern)
   - What's existing that I should use?
   - What could we possibly build on-stream?
   - Jukebox app (taking requests)
+      - There's this: https://github.com/owenconti/lctv-bot-youtube-plugin/blob/master/index.js
   - Automating scheduling, posting to social media
